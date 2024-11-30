@@ -12,7 +12,7 @@ The program I wrote because the scroll wheel on the mouse for my laptop is broke
 
 3.To scroll up press the up arrow key on the keyboard and to scroll down use the down arrow key on the keyboard
 
-#How to add to startup
+# How to add to startup
 
 1.Left-click the icon in the tray and click "Add to startup" (To remove, click "Remove from Startup")
 
